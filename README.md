@@ -13,3 +13,7 @@ Actual Revenue = Sales Revenue + Sales Returns
 2. Create a report of the Top 10 customers with the highest actual revenue.
 3. Create a report analyzing Actual Revenue vs. Budget by product subcategory.
 4. Connect the three reports and enable filtering by Year using a Slicer.
+
+**Ways:**
+- Use PivotTable to create table reports.
+- Use PowerQuery to calculate data from variable excel files and create dimsubs to connect relarionships
