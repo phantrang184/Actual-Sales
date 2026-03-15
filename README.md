@@ -17,3 +17,6 @@ Actual Revenue = Sales Revenue + Sales Returns
 **Ways:**
 - Use PivotTable to create table reports.
 - Use PowerQuery to calculate data from variable excel files and create dimsubs to connect relarionships
+1. Download the repository
+2. Open Report.xlsx
+3. If Power Query shows an error, update the data source path.
